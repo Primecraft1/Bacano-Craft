@@ -1,10 +1,8 @@
-*Delta Project Alpha 0.13 (Testeo Privado #9)*
-
 Bienvenido a la alfa de "Delta Project" la próxima generación de Bacano Craft, donde probaras nuevas experiencias, mods y características
 
 Recuerda que esta es una Alfa con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
-Delta Project: Alpha 0.13 (Testeo Privado 9)
+**Delta Project: Alpha 0.13 (Testeo Privado 9)**
 - se actualizaron varios mods
 - FTB se elimina por completo
 
