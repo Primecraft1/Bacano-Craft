@@ -1,5 +1,168 @@
-#Delta Project Alpha 0.13 (Testeo Privado #9)
+*Delta Project Alpha 0.13 (Testeo Privado #9)*
 
 Bienvenido a la alfa de "Delta Project" la próxima generación de Bacano Craft, donde probaras nuevas experiencias, mods y características
 
 Recuerda que esta es una Alfa con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
+
+Delta Project: Alpha 0.13 (Testeo Privado 9)
+- se actualizaron varios mods
+- FTB se elimina por completo
+
+**Delta Project: Alpha 0.12**
+- Se configuro los redireccionamientos HTTPS y la migración a Cloudflare, todos los servicios asociados (Pagina Web, IP, Panel) vuelven a funcionar
+
+**Delta Project: Alpha 0.12 (Testeo Privado 8)**
+- Se actualizaron varios plugins
+- Se agrego el mod: Bedrock Style Wither
+
+**Delta Project: Alpha 0.11 (Testeo Privado 7)**
+*Se elimina:*
+-Embeddium++
+*Se agrega*
+-Rubidium Extra
+-Rubidium Dynamic Lights
+
+**Delta Project: Alpha 0.10 (Testeo Privado 6)**
+- Se agrega el create crafts and additions
+*Proximamente*
+- Implementacion de Fancy Menu
+
+**Delta Project: Alpha 0.9 (Testeo Privado 5)***
+- Se agrega el Custom NPC
+
+**Delta Project: Alpha 0.8 (Testeo Privado 4)**
+*Se elimino*
+- Bossonium
+- Born in Chaos
+- Aquamirae
+- Ecologist
+- Inmersive Aircraft
+*Se agrego*
+- Simple Planes
+
+**Delta Project: Alpha 0.7 (Testeo Privado 3)**
+- *Se elimino:*
+- Doggy Talents
+- Chat heads
+- Creeper Overhaul
+- Campsites
+
+**Delta Project: Alpha 0.6 (Testeo Privado 2)**
+- Se eliminan los mods Moa Decor: Science y Moa Decor: Art
+- El mundo vuelve a reiniciarse
+- Se tradujeron algunos mensajes del DiscordSRV
+- Se elimina el plugin: UltimateClaims
+- Nueva ip: play.bacanocraft.online
+*Bugs resuletos:*
+- El server List Plus vuelve a funcionar
+
+**Delta Project: Alpha 0.5.5**
+- Nuevo dominio adquirido
+- Panel puesto al nuevo dominio
+- Ip del servidor adaptada al nuevo dominio
+- Pagina web en proceso
+- Los testeos se posponen
+
+**Delta Project: Alpha 0.5.0 Test 2 (Testeo Privado)**
+- Actualizacion y mantenimiento de varios Plugins
+- Actualizacion de Mods
+*Bugs conocidos:*
+- Server List Plus no funciona aun
+
+**Delta Project: Alpha 0.5.0 Test 1 (Testeo Privado)**
+- Primera version de testeo
+- Se elimina Quark
+- Se actualizan varios mods
+
+**Delta Project: Aplha 0.4.0 (Version Privada)**
+- Se integro un Panel web para administrara el servidor y la consola del mismo
+
+**Delta Project:** Aplha 0.3.1 (Version Privada)
+- Se agrego Server List Plus (configracion aun en progreso)
+
+**Delta Project:** Alpha 0.3 (Version Privada)
+- Se implemento las nuevas apariencias para el TAB, Sidebar y Bossbar
+
+**Delta Project:** Alpha 0.2.1 Server (Version Privada)
+- Se actualizo el Plugin SternalBoard
+
+**Delta Project:** Alpha 0.2 Server (Version Privada)
+- *Plugins agregados:*
+  - AJLeaderboards
+  - Announcer Plus
+  - Authme
+  - Skins Restorer
+  - Better RTP
+  - Better Teams
+  - BlockLocker
+  - ChatReaction
+  - Coins
+  - CMILIB
+  - Command Pannels
+  - Commons
+  - CoreProtect
+  - Custom Advancements
+  - Decent Holograms
+  - DiscordSRV
+  - DMC GuiShop
+  - EssentialsX
+  - EssentialsX Chat
+  - Excellent Crates
+  - Jobs Reborn
+  -  LuckPerms
+  - MultiverseCore
+  - NexEngine
+  - Placeholder API
+  - PlayerKits 2
+  - Protocol Lib
+  - PunishGUI
+  - Server List Plus
+  - Shopkeepers
+  - SternalBoard
+  - TAB
+  - Timed Rewards
+  - Vault
+  - Villager Bank
+  - WorldEdit
+  - WorldGuard
+
+**Delta Project:** Alpha 0.1 Server (Version Privada)
+- *Se agregaron los Mods:* 
+   - Balm
+  - Champions
+  - Cloth Config 
+  - Clumps 
+  - Craftwaker
+  - When Dungeons Arise
+  - FastSuite 
+  - Feature NBT Deadlock Be Gone
+  - I Don't Wan't Portal Yet
+  - Incendium 
+  - Memory Leak Fix 
+  - Nether Portal Fix 
+  - Placebo 
+  - Repurposed Structures
+  - Additional Structures 
+  - Snow Under Trees
+  - Starlight 
+  - Subterrestrial 
+  - Timeout fixes 
+  - Xaero’s MiniMap 
+  - Xaero’s WorldMap
+  - Yung's Api
+  - Yung's Better Desert Temple 
+  - Yung's Better Dungeons 
+  - Yung's Better End Island 
+  - Yung's Better Mineshafts
+  - Yung's Better Nether Fortress 
+  - Yung's Better Ocean Monuments 
+  - Yung's Better Stronghold 
+  - Yung’s Bridges
+  - Yung’s Extras
+- *Mods Cliente:* Mod Pack Alpha 0.1
+  - Champions
+  - CraftTweaker
+  - Optifine (Temporal)
+  - Xaero’s MiniMap
+  - Xaero’s WorldMap
+- *Plugins:* Aun no implementados...
