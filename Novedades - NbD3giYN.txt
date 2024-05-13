@@ -2,6 +2,14 @@ Bienvenido a la alfa de "Delta Project" la próxima generación de Bacano Craft,
 
 Recuerda que esta es una Alfa con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Delta Project Alpha 0.17**
+- Se elimino Neko's Enchanted Books
+- Se elimino JustEnoughResources
+- Se elimino Canary
+- Se agrega Radium
+- Se agrega Inmediatelyfast
+- Se agrega Bocchium
+
 **Delta Project Alpha 0.16.3**
 - Se arreglo un problema con el plugin ExcellentCrates
 - Se actualizo FancyMenu
