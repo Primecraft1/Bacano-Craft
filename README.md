@@ -4,6 +4,7 @@ Twitter: twitter.com/bacanocraft
 Discord: discord.bacanocraft.online
 
 In english
+
 Welcome to Bacano Craft 5's official Mod Pack, consisting of 124 mods for Minecraft version 1.18.2 Forge.
 
 Focused on construction, mechanism creation, and exploration, Bacano Craft blends classic mods with modern ones in Forge:
@@ -30,6 +31,7 @@ Server version: Coming soon...
 Custom server version: Coming soon...
 
 En español:
+
 Bienvenido al Mod Pack oficial de Bacano Craft 5, integrado por 124 mods para la versión de Minecraft 1.18.2 Forge.
 
 Enfocado en la construcción, creación de mecanismos y la exploración. Bacano Craft mezcla mods clásicos con los mods modernos en Forge:
