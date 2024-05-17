@@ -2,6 +2,13 @@ Bienvenido a la alfa de "Delta Project" la próxima generación de Bacano Craft,
 
 Recuerda que esta es una Alfa con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Project Delta: Alpha 0.19.4**
+- Se corrigio errores de posicionamiento de botones en resoluciones no estandar
+- Se actualizo el mod Macaws Bridge
+
+**Delta Project 0.19.3**
+- Interfaz principal terminada: https://youtu.be/Dl6UONlkZ3E
+
 **Delta Project 0.19.2**
 - Se actualizo Graveyard solucionando un Crash
 
