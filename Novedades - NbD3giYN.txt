@@ -4,7 +4,7 @@ Recuerda que esta es una Alfa con características experimentales no terminadas,
 
 **Project Delta: Alpha 0.19.4**
 - Se corrigio errores de posicionamiento de botones en resoluciones no estandar
-- Se actualizo el mod Macaws Bridge
+- Se actualizo el mod Macaws Trapdoors
 
 **Delta Project 0.19.3**
 - Interfaz principal terminada: https://youtu.be/Dl6UONlkZ3E
