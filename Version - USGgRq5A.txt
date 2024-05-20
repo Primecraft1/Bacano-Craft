@@ -1,4 +1,4 @@
 |||
-Versión: Alpha 0.20.1
+Versión: Alpha 0.20.2
 Testeo privado #10
 |||
