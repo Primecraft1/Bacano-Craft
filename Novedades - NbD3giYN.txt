@@ -7,7 +7,7 @@ Recuerda que esta es una Beta con características experimentales no terminadas,
 - Se configuro los mods
 - Se creo el mundo del lobby ahora en construcción
 
-Bacano Craft 5 pasa a fase Beta luego del anuncio de este, no se agregaran mas mods ni abran cambios al mundo, el modpack se considera "estable"
+Bacano Craft 5 pasa a fase Beta luego del anuncio de este, no se agregarán más mods ni abran cambios al mundo, el modpack se considera "estable".
 
 **Project Delta: Alpha 0.21.1**
 - Se actualizo el plugin Sternalboard
