@@ -2,6 +2,16 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.2.0**
+- Se elimo ShopGUI+
+
+**Bacano Craft 5: Beta 1.1.1**
+- Se revierten todos los cambios de la versión anterior
+
+**Bacano Craft 5: Beta 1.1.0**
+- Se agrego el plugin NexLogin
+- Se elimino el plugin AuthMe
+
 **Bacano Craft 5: Beta 1.0.0**
 - Se agrego el mod Nyf's Spiders
 - Se configuro los mods
