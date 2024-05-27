@@ -1,7 +1,7 @@
 ![1 0](https://github.com/Primecraft1/Bacano-Craft/assets/88394648/d01e0236-2e13-494b-a646-07759267ba26)
-Youtube: Youtube.com/@bacanocraft
-Twitter: twitter.com/bacanocraft
-Discord: discord.bacanocraft.online
+Youtube: https://Youtube.com/@bacanocraft
+Twitter: https://twitter.com/bacanocraft
+Discord: https://discord.bacanocraft.online
 
 In english
 
