@@ -1,6 +1,23 @@
-Bienvenido a la alfa de "Delta Project" la próxima generación de Bacano Craft, donde probaras nuevas experiencias, mods y características
+Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft, donde probaras nuevas experiencias, mods y características
 
-Recuerda que esta es una Alfa con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
+Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
+
+**Bacano Craft 5: Beta 1.0.0**
+- Se agrego el mod Nyf's Spiders
+- Se configuro los mods
+- Se creo el mundo del lobby ahora en construcción
+
+Bacano Craft 5 pasa a fase Beta luego del anuncio de este, no se agregaran mas mods ni abran cambios al mundo, el modpack se considera "estable"
+
+**Project Delta: Alpha 0.21.1**
+- Se actualizo el plugin Sternalboard
+- Se actualizo el plugin FastLogin
+
+**Project Delta: Alpha 0.21**
+-    Se actualizo el mod Simple Voice Chat
+-    Se agrego el plugin NoteBlockApi
+-    Se agrego el plugin Jukebox
+-    Se agrego el plugin Quests
 
 **Project Delta: Alpha 0.20.2**
 - Se elimina Inmediatelyfast
