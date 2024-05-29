@@ -2,8 +2,13 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.3.0**
+- Se elimino ToroHealth.
+- Se reubico el mini mapa a la izquierda.
+- Se configuro el tamaño del Jade, este ahora hará función de mostrar la vida del mob.
+
 **Bacano Craft 5: Beta 1.2.1**
-- Se corrigio un bug en el que los botones del menu de inicio cuando se abria por primera vez el modpack
+- Se corrigió un bug en el que los botones del menú de inicio no se mostraban cuando se abría por primera vez el modpack
 
 **Bacano Craft 5: Beta 1.2.0**
 - Se elimo ShopGUI+
