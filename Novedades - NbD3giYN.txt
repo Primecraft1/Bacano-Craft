@@ -2,6 +2,9 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.4.1 Client**
+- Se elimino el mod AmbientSounds
+
 **Bacano Craft 5: Beta 1.4.0 Server**
 - Se elimino el plugin Jukebox
 - Se elimino el plugin NoteBlockApi
