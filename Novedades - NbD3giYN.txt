@@ -2,6 +2,17 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.4.3 Client & Server**
+- Se actualizo el mod Simple Voice Chat
+- Se actualizo el mod Doggy Talents Next
+- Se actualizo el mod Security Craft
+
+**Bacano Craft 5: Beta 1.4.2 Server**
+- Se elimino el mod Starlight
+
+**Bacano Craft 5: Beta 1.4.2 Client**
+- Se elimino el mod Starlight
+
 **Bacano Craft 5: Beta 1.4.1 Client**
 - Se elimino el mod AmbientSounds
 
