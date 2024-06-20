@@ -2,6 +2,14 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.6 Client & Server**
+- Se elimino el mod Skin Changer
+- Se agrego el mod Everlasting Skins (Server-Side)
+- Se agrego el mod Eureka!
+- Se agrego el mod Valkyrian Skyies
+- Se agrego el mod Kotlin
+- Se actualizo el mod Macaw's Fences and Walls
+
 **Bacano Craft 5: Beta 1.5 Client & Server**
 - Se actualizo el mod Simple Voice Chat
 - Se actualizo el mod Embeddium++
