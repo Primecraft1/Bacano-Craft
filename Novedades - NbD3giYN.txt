@@ -2,6 +2,16 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.7 Client**
+- Se agrego la traducción al ingles al menú personalizado
+- Se agrego una imagen de fondo a la pantalla de carga inicial (remplazando el fondo gris)
+- Se agrego la traducción al ingles de las novedades
+- Se agrego una imagen en las pantallas de carga (conectarse, desconectarse, cerrar el juego, cargando mundo)
+- Se agrego la opción de jugar mundos
+- Se elimino la opción de ver la lista de servidor (al menos que te desconectes)
+- Se elimino el mod Forgematica
+- Se elimino el mod MaFgLib
+
 **Bacano Craft 5: Beta 1.6 Client & Server**
 - Se elimino el mod Skin Changer
 - Se agrego el mod Everlasting Skins (Server-Side)
