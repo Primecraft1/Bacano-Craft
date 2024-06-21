@@ -1,1 +1,340 @@
+Welcome to the Beta of "Bacano Craft 5," the next generation of Bacano Craft, where you will experience new features, mods, and characteristics.
 
+Remember that this is a Beta with unfinished experimental features, which may or may not make it to the final product, and it may contain bugs that could be inconvenient.
+
+**Bacano Craft 5: Beta 1.6 Client & Server**
+- Removed the Skin Changer mod
+- Added the Everlasting Skins mod (Server-Side)
+- Added the Eureka! mod
+- Added the Valkyrian Skies mod
+- Added the Kotlin mod
+- Updated the Macaw's Fences and Walls mod
+
+**Bacano Craft 5: Beta 1.5 Client & Server**
+- Updated the Simple Voice Chat mod
+- Updated the Embeddium++ mod
+- Updated the Macaws Doors mod
+- Removed the Additional Lanterns mod
+- Added the Create: Steam 'n' Rails mod
+
+**Bacano Craft 5: Beta 1.4.3 Client & Server**
+- Updated the Simple Voice Chat mod
+- Updated the Doggy Talents Next mod
+- Updated the Security Craft mod
+
+**Bacano Craft 5: Beta 1.4.2 Server**
+- Removed the Starlight mod
+
+**Bacano Craft 5: Beta 1.4.2 Client**
+- Removed the Starlight mod
+
+**Bacano Craft 5: Beta 1.4.1 Client**
+- Removed the AmbientSounds mod
+
+**Bacano Craft 5: Beta 1.4.0 Server**
+- Removed the Jukebox plugin
+- Removed the NoteBlockApi plugin
+- Added the Chatty plugin
+- Added the Citizens plugin
+- Added the AlonsoLevels plugin
+- Updated the AnnouncerPlus plugin
+- Updated the BetterTeams plugin
+- Updated the CMILibs plugin
+- Updated the CommandPanels plugin
+- Updated the LuckPerms plugin
+- Updated the PlaceholderApi plugin
+- Updated the PlayerKits2 plugin
+- Updated the ProtocolLib plugin
+- Updated the Quests plugin
+- Updated the Shopkeepers plugin
+- Updated the TAB plugin
+- Updated the Bounty Seekers plugin
+
+**Bacano Craft 5: Beta 1.4.0 Client**
+- Updated the ModernFix mod
+- Updated the Corail Tombstone mod
+- Updated the CreativeCore mod
+- Updated the Forgematica mod
+- Updated the MaFgLib mod
+- Updated Xaero's Minimap mod
+- Updated Xaero's World map mod
+- Updated the Watermedia mod
+- Updated the WaterFrame mod
+- Updated the Justzoom mod
+- Added the AmbientSounds mod
+
+**Bacano Craft 5: Beta 1.3.0**
+- Removed the ToroHealth mod
+- Moved the minimap to the left
+- Configured the size of Jade, which will now display mob health
+
+**Bacano Craft 5: Beta 1.2.1**
+- Fixed a bug where start menu buttons did not appear when the modpack was first opened
+
+**Bacano Craft 5: Beta 1.2.0**
+- Removed the ShopGUI+ mod
+
+**Bacano Craft 5: Beta 1.1.1**
+- Reverted all changes from the previous version
+
+**Bacano Craft 5: Beta 1.1.0**
+- Added the NexLogin plugin
+- Removed the AuthMe plugin
+
+**Bacano Craft 5: Beta 1.0.0**
+- Added Nyf's Spiders mod
+- Configured the mods
+- Created the lobby world, now under construction
+
+Bacano Craft 5 enters the Beta phase following this announcement. No more mods will be added, and no changes will be made to the world. The modpack is considered "stable."
+
+**Project Delta: Alpha 0.21.1**
+- Updated the Sternalboard plugin
+- Updated the FastLogin plugin
+
+**Project Delta: Alpha 0.21**
+- Updated the Simple Voice Chat mod
+- Added the NoteBlockApi plugin
+- Added the Jukebox plugin
+- Added the Quests plugin
+
+**Project Delta: Alpha 0.20.2**
+- Removed the Immediatelyfast mod
+
+**Project Delta: Alpha 0.20.1**
+- Added the ajparkour plugin
+- Updated the Decent Holograms plugin
+- Added the ShopGUIPlus plugin
+
+**Project Delta: Alpha 0.20.0**
+- Removed the BoatLoad mod
+- Removed the Zmenu mod
+- Reverted the removal of Command Panels, reintegrating it
+- Replaced RedProtect with ProtectionStones
+- Integrated the CoreProtect security system
+- Updated the ConditionalEvent plugin
+- Updated the PlayerKits2 plugin
+- Updated the CMILib plugin
+- Added the ModelGapFix mod
+
+**Project Delta: Alpha 0.19.4**
+- Fixed button positioning errors in non-standard resolutions
+- Updated the Macaws Trapdoors mod
+- Updated the Embeddium++ mod
+
+**Delta Project 0.19.3**
+- Main interface completed: https://youtu.be/Dl6UONlkZ3E
+
+**Delta Project 0.19.2**
+- Updated Graveyard, fixing a crash
+
+**Delta Project 0.19.1**
+- Removed the Simple Portals plugin
+- Updated the Jobs Reborn plugin
+
+**Delta Project 0.19 (Private Testing 10)**
+- World reset
+- Server-side mods configured
+
+**Delta Project Alpha 0.18**
+- Removed the Warden and Sculk mod
+
+**Delta Project Alpha 0.17**
+- Removed Neko's Enchanted Books
+- Removed JustEnoughResources
+- Removed Canary
+- Added Radium
+- Added Immediatelyfast
+- Added Bocchium
+
+**Delta Project Alpha 0.16.3**
+- Fixed an issue with the ExcellentCrates plugin
+- Updated FancyMenu
+
+**Delta Project Alpha 0.16.2**
+- Added NexEngine
+
+**Delta Project Alpha 0.16.1**
+- Added WorldGuardExtraFlags
+
+**Delta Project Alpha 0.16**
+- Updated Placeholder API variables
+- Updated ProtocolLib
+- Updated CMILIB
+- Updated MultiverseCore
+- Updated Betterteams
+- Added Doggy Talents
+- Added Wither Storm
+- Added Zmenu
+- Added Multiverse Nether-Portal
+- Removed Punishment GUI
+- Removed Command Panels
+
+**Delta Project: Alpha 0.14**
+- Added Tom's Simple Storage mod
+- Added Damage Tilt mod
+
+**Delta Project: Alpha 0.13 (Private Testing 9)**
+- Various mods updated
+- FTB completely removed
+
+**Delta Project: Alpha 0.12**
+- Configured HTTPS redirections and migration to Cloudflare, all associated services (Website, IP, Panel) back online
+
+**Delta Project: Alpha 0.12 (Private Testing 8)**
+- Various plugins updated
+- Added Bedrock Style Wither mod
+
+**Delta Project: Alpha 0.11 (Private Testing 7)**
+*Removed:*
+- Embeddium++
+*Added:*
+- Rubidium Extra
+- Rubidium Dynamic Lights
+
+**Delta Project: Alpha 0.10 (Private Testing 6)**
+- Added Create Crafts and Additions
+*Coming Soon:*
+- Implementation of Fancy Menu
+
+**Delta Project: Alpha 0.9 (Private Testing 5)**
+- Added Custom NPC
+
+**Delta Project: Alpha 0.8 (Private Testing 4)**
+*Removed:*
+- Bossonium
+- Born in Chaos
+- Aquamirae
+- Ecologist
+- Immersive Aircraft
+*Added:*
+- Simple Planes
+
+**Delta Project: Alpha 0.7 (Private Testing 3)**
+*Removed:*
+- Doggy Talents
+- Chat Heads
+- Creeper Overhaul
+- Campsites
+
+**Delta Project: Alpha 0.6 (Private Testing 2)**
+- Removed Moa Decor: Science and Moa Decor: Art mods
+- World reset again
+- Some DiscordSRV messages translated
+- Removed UltimateClaims plugin
+- New IP: play.bacanocraft.online
+*Resolved Bugs:*
+- Server List Plus is working again
+
+**Delta Project: Alpha 0.5.5**
+- New domain acquired
+- Panel set to the new domain
+- Server IP adapted to the new domain
+- Website in progress
+- Testing postponed
+
+**Delta Project: Alpha 0.5.0 Test 2 (Private Testing)**
+- Plugin updates and maintenance
+- Mod updates
+*Known Bugs:*
+- Server List Plus still not working
+
+**Delta Project: Alpha 0.5.0 Test 1 (Private Testing)**
+- First testing version
+- Removed Quark
+- Various mods updated
+
+**Delta Project: Alpha 0.4.0 (Private Version)**
+- Integrated a web panel to manage the server and its console
+
+**Delta Project: Alpha 0.3.1 (Private Version)**
+- Added Server List Plus (configuration still in progress)
+
+**Delta Project: Alpha 0.3 (Private Version)**
+- Implemented new appearances for TAB, Sidebar, and Bossbar
+
+**Delta Project: Alpha 0.2.1 Server (Private Version)**
+- Updated the SternalBoard plugin
+
+**Delta Project: Alpha 0.2 Server (Private Version)**
+*Added Plugins:*
+  - AJLeaderboards
+  - Announcer Plus
+  - Authme
+  - Skins Restorer
+  - Better RTP
+  - Better Teams
+  - BlockLocker
+  - ChatReaction
+  - Coins
+  - CMILIB
+  - Command Panels
+  -
+
+ Commons
+  - CoreProtect
+  - Custom Advancements
+  - Decent Holograms
+  - DiscordSRV
+  - DMC GuiShop
+  - EssentialsX
+  - EssentialsX Chat
+  - Excellent Crates
+  - Jobs Reborn
+  - LuckPerms
+  - MultiverseCore
+  - NexEngine
+  - Placeholder API
+  - PlayerKits 2
+  - Protocol Lib
+  - PunishGUI
+  - Server List Plus
+  - Shopkeepers
+  - SternalBoard
+  - TAB
+  - Timed Rewards
+  - Vault
+  - Villager Bank
+  - WorldEdit
+  - WorldGuard
+
+**Delta Project: Alpha 0.1 Server (Private Version)**
+*Added Mods:*
+  - Balm
+  - Champions
+  - Cloth Config
+  - Clumps
+  - Craftwaker
+  - When Dungeons Arise
+  - FastSuite
+  - Feature NBT Deadlock Be Gone
+  - I Don't Want Portal Yet
+  - Incendium
+  - Memory Leak Fix
+  - Nether Portal Fix
+  - Placebo
+  - Repurposed Structures
+  - Additional Structures
+  - Snow Under Trees
+  - Starlight
+  - Subterrestrial
+  - Timeout fixes
+  - Xaero’s MiniMap
+  - Xaero’s WorldMap
+  - Yung's Api
+  - Yung's Better Desert Temple
+  - Yung's Better Dungeons
+  - Yung's Better End Island
+  - Yung's Better Mineshafts
+  - Yung's Better Nether Fortress
+  - Yung's Better Ocean Monuments
+  - Yung's Better Stronghold
+  - Yung’s Bridges
+  - Yung’s Extras
+*Client Mods: Mod Pack Alpha 0.1*
+  - Champions
+  - CraftTweaker
+  - Optifine (Temporary)
+  - Xaero’s MiniMap
+  - Xaero’s WorldMap
+*Plugins: Not yet implemented...*
