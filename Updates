@@ -2,6 +2,15 @@ Welcome to the Beta of "Bacano Craft 5," the next generation of Bacano Craft, wh
 
 Remember that this is a Beta with unfinished experimental features, which may or may not make it to the final product, and it may contain bugs that could be inconvenient.
 
+**Bacano Craft 5: Beta 1.6.3 Server**.
+- Added JS Engine plugin
+- Item NBT API plugin added
+- Alonso Levels is working again
+
+**Bacano Craft 5: Beta 1.6.2 Server
+- Updated Cbounty plugin
+- Added console spam fix plugin
+
 **Bacano Craft 5: Beta 1.7.1 Client**.
 - Updated Macaws Bridge mod
 - Implemented an English translation of the "User Menu" button.
