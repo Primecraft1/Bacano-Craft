@@ -2,6 +2,10 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.6.2 Server**
+- Se actualizo el plugin Cbounty
+- Se agrego el plugin console spam fix
+
 **Bacano Craft 5: Beta 1.7.1 Client**
 - Se actualizo el mod Macaws Bridge
 - Se implemento una traduccion al ingles del boton "Menu de Usuario" "User Menu"
