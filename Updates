@@ -2,6 +2,11 @@ Welcome to the Beta of "Bacano Craft 5," the next generation of Bacano Craft, wh
 
 Remember that this is a Beta with unfinished experimental features, which may or may not make it to the final product, and it may contain bugs that could be inconvenient.
 
+**Bacano Craft 5: Beta 1.7.1 Client**.
+- Updated Macaws Bridge mod
+- Implemented an English translation of the "User Menu" button.
+- Now the user menu button will not be displayed in single player world or in servers other than Official Bacano Craft.
+
 **Bacano Craft 5: Beta 1.7 Client**
 - Added English translation to the custom menu.
 - Added a background image to the initial loading screen (replacing the gray background).
