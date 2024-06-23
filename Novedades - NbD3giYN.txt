@@ -5,7 +5,7 @@ Recuerda que esta es una Beta con características experimentales no terminadas,
 **Bacano Craft 5: Beta 1.7.1 Client**
 - Se actualizo el mod Macaws Bridge
 - Se implemento una traduccion al ingles del boton "Menu de Usuario" "User Menu"
-- Ahora el boton de menu de usuario no se mostrar en mundo de un jugador o en servidores que no sean Bacano Craft Oficial
+- Ahora el botón de menú de usuario no se mostrar en mundo de un jugador o en servidores que no sean Bacano Craft Oficial
 
 **Bacano Craft 5: Beta 1.7 Client**
 - Se agrego la traducción al ingles al menú personalizado
