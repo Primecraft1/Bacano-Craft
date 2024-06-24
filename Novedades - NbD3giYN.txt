@@ -4,6 +4,7 @@ Recuerda que esta es una Beta con características experimentales no terminadas,
 
 **Bacano Craft 5: Beta 1.7.2 Client**
 - Se agregaron sonidos ambiente al menu
+- Se arreglo un bug con los botones del menu en el idioma español
 
 **Bacano Craft 5: Beta 1.6.3 Server**
 - Se agrego el plugin JS Engine
