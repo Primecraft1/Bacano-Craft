@@ -2,6 +2,41 @@ Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft
 
 Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
 
+**Bacano Craft 5: Beta 1.8 Client**
+- Se elimino los sonidos ambientales de los menús
+- Se agrego la imagen de carga a la pantalla de desconexión
+- Se elimino el mod Valkyrian Skies
+- Se elimino el mod Eureka!
+
+**Bacano Craft 5: Beta 1.7 Server**
+- Se elimino el mod ItemBlacklist
+- Se elimino el mod Jade Addons
+- Se elimino el mod Valkyrian Skies
+- Se elimino el mod Eureka!
+- Se elimino el plugin JS Engine
+- Se elimino el plugin Alonso Levels
+- Se elimino el plugin Item NBT API
+- Se elimino el plugin Brewery
+- Se elimino el plugin Chatty
+- Se elimino el plugin custom quit and join
+- Se elimino el plugin ajparkour
+- Se elimino el plugin Conditional Events
+- Se elimino el plugin CoreProtect
+- Se elimino el plugin UShop
+- Se elimino el plugin TimedRewards
+- Se elimino el plugin Shopkeepers
+- Se elimino el plugin AnnouncerPlus
+- Se elimino el plugin Console Spam Fix
+- Se elimino el plugin MyCommand
+- Se elimino el plugin PlayerKits2
+- Se elimino el plugin Multiverse Core
+- Se elimino el plugin Simple Portals
+- Se agrego el mod Fast Leaf Decay
+- Se agrego el plugin BanItem
+- Se agrego el plugin AxRewards
+- Se agrego el plugin BkCommons
+- Se agrego el plugin My Worlds
+
 **Bacano Craft 5: Beta 1.6.4 Server**
 - Se elimino el mod Craftweaker
 - Se elimino el mod JEItweaker
