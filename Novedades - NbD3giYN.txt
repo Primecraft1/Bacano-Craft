@@ -4,8 +4,8 @@ Recuerda que esta es una Beta con características experimentales no terminadas,
 
 **Lanzamiento Oficial 1.0**
 Bienvenido a Bacano Craft 5, disfruta tu estancia en el servidor, estamos felices de lanzarlo y mostrárselos a todos, como ven tenemos un menú personalizado y muchas características más (dependerá de la edición que tengas).
--	Se removió el mod Betterfps
--	Se removió el mod Farsight
+- Se removió el mod Betterfps
+- Se removió el mod Farsight
 
 **Bacano Craft 5: Beta 1.8.1 Client**
 - Se actualizo el mod Simple Voice Chat
