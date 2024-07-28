@@ -1,9 +1,6 @@
-Bienvenido a la Beta de "Bacano Craft 5" la próxima generación de Bacano Craft, donde probaras nuevas experiencias, mods y características
-
-Recuerda que esta es una Beta con características experimentales no terminadas, que pueden llegar o no al producto final, además de contener errores que pueden incomodar.
+Bienvenido a Bacano Craft 5, disfruta tu estancia en el servidor, estamos felices de lanzarlo y mostrárselos a todos, como ven tenemos un menú personalizado y muchas características más (dependerá de la edición que tengas).
 
 **Lanzamiento Oficial 1.0**
-Bienvenido a Bacano Craft 5, disfruta tu estancia en el servidor, estamos felices de lanzarlo y mostrárselos a todos, como ven tenemos un menú personalizado y muchas características más (dependerá de la edición que tengas).
 - Se removió el mod Betterfps
 - Se removió el mod Farsight
 
