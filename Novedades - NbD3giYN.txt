@@ -1,5 +1,8 @@
 Bienvenido a Bacano Craft 5, disfruta tu estancia en el servidor, estamos felices de lanzarlo y mostrárselos a todos, como ven tenemos un menú personalizado y muchas características más (dependerá de la edición que tengas).
 
+**Bacano Craft 5: Lanzamiento 1.1 Client**
+- Se elimino el mod Enemy Expansion
+
 **Lanzamiento Oficial 1.0**
 - Se removió el mod Betterfps
 - Se removió el mod Farsight
